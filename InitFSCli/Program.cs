@@ -1,4 +1,4 @@
-﻿using InitFSCli.Frostbite.Utilities;
+using InitFSCli.Frostbite.Utilities;
 using System;
 using System.IO;
 using System.Linq;
