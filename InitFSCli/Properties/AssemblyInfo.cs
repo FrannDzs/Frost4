@@ -1,21 +1,19 @@
-﻿using System.Reflection;
-using System.Runtime.CompilerServices;
+using System.Reflection;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("InitFS Cli")]
-[assembly: AssemblyDescription("Unpacks and packs files from initfs file used in Frostbite 3 games.")]
-[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyTitle("InitFS Command Line Tool")]
+[assembly: AssemblyDescription("Unpacks and packs files from initfs archives used in Frostbite 3 games.")]
 [assembly: AssemblyCompany("Frost4 Team")]
 [assembly: AssemblyProduct("Frost4")]
-[assembly: AssemblyCopyright("Copyright ©  2020 SockNastre")]
+[assembly: AssemblyCopyright("Copyright © 2020 SockNastre. All rights reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
-// to COM components.  If you need to access a type in this assembly from
+// to COM components. If you need to access a type in this assembly from
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
